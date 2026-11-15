@@ -18,16 +18,6 @@
 
 ---
 
-### About
-
-杭电在读，混 [@hduhelp](https://github.com/hduhelp)。
-
-平时写点自己用得上的东西：图书馆抢座脚本、给 dsh 接各家模型的插件、TG 贴纸搬到 QQ 的小桥。
-
-有问题直接开 issue。
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="center">
