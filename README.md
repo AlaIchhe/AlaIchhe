@@ -18,24 +18,13 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About
 
-```ts
-const alaic = {
-  location:  "Hangzhou, China",
-  school:    "Hangzhou Dianzi University (HDU)",
-  org:       "@hduhelp",
-  focus:     ["AI Gateways", "LLM Provider Plugins", "Automation Scripts", "Bots & Bridges"],
-  ecosystem: "DeepSeek Harness (dsh)",
-  languages: ["TypeScript", "JavaScript", "Python", "Shell", "LaTeX"],
-  motto:     "能自动化的，就别手动。",
-};
-```
+杭电在读，混 [@hduhelp](https://github.com/hduhelp)。
 
-- 🔭 正在折腾 **DeepSeek Harness** 生态：各家模型的 Provider 插件、OpenAI 兼容网关
-- 🏫 杭电学生，写过图书馆抢座、校园 AI 网关之类的小工具
-- 🤖 喜欢做「桥」：Telegram ↔ QQ、桌面 App 登录态 ↔ API、多上游 ↔ 统一协议
-- 💬 欢迎来 Issue / PR 交流
+平时写点自己用得上的东西：图书馆抢座脚本、给 dsh 接各家模型的插件、TG 贴纸搬到 QQ 的小桥。
+
+有问题直接开 issue。
 
 ---
 
