@@ -24,17 +24,19 @@
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,py,bash,linux,debian,latex,git,github,githubactions,vscode&theme=dark&perline=12" alt="skills" />
 </p>
 
+<!-- PROJECTS:START -->
+
 ---
 
 ### Projects
 
 | Project | Description | Tech |
 | :-- | :-- | :-- |
-| [**HDU-Library-Sniper**](https://github.com/AlaIchhe/HDU-Library-Sniper) <br> ![stars](https://img.shields.io/github/stars/AlaIchhe/HDU-Library-Sniper?style=flat-square&color=F5A9B8) | 杭州电子科技大学图书馆座位预约与自动抢座脚本 | ![TS](https://img.shields.io/badge/-TypeScript-5BCEFA?style=flat-square&logo=typescript&logoColor=white) |
-| [**Codex-AI-Gateway**](https://github.com/AlaIchhe/Codex-AI-Gateway) | 本地 Codex AI Gateway：多上游路由、协议转换、模型元数据与用量计费 | ![Py](https://img.shields.io/badge/-Python-5BCEFA?style=flat-square&logo=python&logoColor=white) |
-| [**dsh-hduhelp-ai**](https://github.com/AlaIchhe/dsh-hduhelp-ai) | 杭电助手 AI 网关 → DeepSeek Harness provider：CAS 登录、模型注册、OpenAI 兼容反代 | ![JS](https://img.shields.io/badge/-JavaScript-F5A9B8?style=flat-square&logo=javascript&logoColor=white) |
-| [**dsh-qwenwork-connect**](https://github.com/AlaIchhe/dsh-qwenwork-connect) | 千问办公（QwenWork）的 DSH 模型提供方：device flow 登录、官方网关、工具调用 | ![JS](https://img.shields.io/badge/-JavaScript-F5A9B8?style=flat-square&logo=javascript&logoColor=white) |
-| [**tg2qq-sticker**](https://github.com/AlaIchhe/tg2qq-sticker) | Telegram 贴纸 → QQ 收藏表情：Bot API + NapCat OneBot 桥，含动态格式兼容性实测 | ![JS](https://img.shields.io/badge/-JavaScript-F5A9B8?style=flat-square&logo=javascript&logoColor=white) |
+| [**HDU-Library-Sniper**](https://github.com/AlaIchhe/HDU-Library-Sniper) <br> ![stars](https://img.shields.io/github/stars/AlaIchhe/HDU-Library-Sniper?style=flat-square&color=F5A9B8) | 杭州电子科技大学（HDU/杭电）图书馆座位预约与自动抢座脚本 | ![TS](https://img.shields.io/badge/-TypeScript-5BCEFA?style=flat-square&logo=typescript&logoColor=white) |
+| [**dsh-antigravity-acp**](https://github.com/AlaIchhe/dsh-antigravity-acp) <br> ![stars](https://img.shields.io/github/stars/AlaIchhe/dsh-antigravity-acp?style=flat-square&color=F5A9B8) | Antigravity ACP for DSH 的二次开源分支：识别 xhigh 档位但不暴露、补齐上下文用量锚点（基于 KouzakiUmi/dsh-antigravity-acp，MIT） | ![TS](https://img.shields.io/badge/-TypeScript-5BCEFA?style=flat-square&logo=typescript&logoColor=white) |
+| [**dsh-qwenwork-connect**](https://github.com/AlaIchhe/dsh-qwenwork-connect) <br> ![stars](https://img.shields.io/github/stars/AlaIchhe/dsh-qwenwork-connect?style=flat-square&color=F5A9B8) | 千问办公（QwenWork）的 DSH 模型提供方：device flow 登录、官方网关、支持工具调用 | ![TS](https://img.shields.io/badge/-TypeScript-5BCEFA?style=flat-square&logo=typescript&logoColor=white) |
+
+<!-- PROJECTS:END -->
 
 ---
 
